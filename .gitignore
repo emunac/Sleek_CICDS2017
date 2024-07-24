@@ -11,3 +11,7 @@ CSVs/TrafficLabelling /Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.c
 CSVs/TrafficLabelling /Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
 CSVs/TrafficLabelling /Tuesday-WorkingHours.pcap_ISCX.csv
 CSVs/TrafficLabelling /Wednesday-workingHours.pcap_ISCX.csv
+*.csv
+*.zip
+*.npy
+CIC-IDS-2017/CSVs/MachineLearningCSV.md5
